@@ -1,5 +1,5 @@
 
-# Dokumentace k projektu: Měření kvality ovzduší v jeskyních pomocí ESP32 a LoRa/MQTT
+# Dokumentace k projektu: Měření kvality ovzduší v jeskyních pomocí ESP32 a MQTT/LoRa
 
 **Autoři:** Jakub Lichnovský, Kryštof Moravec, Tomáš Lazar
 
