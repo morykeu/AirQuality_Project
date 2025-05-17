@@ -35,14 +35,14 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 3. Schéma zapojení
 
-![Schéma zapojení](schema.md)
+![Schéma zapojení](images/schema.md)
 
 ---
 
 ## 4. OLED displej – ukázky výstupu
 
-![OLED kvalita](oled_kvalita.md)
-![OLED CO2](oled_co2.md)
+![OLED kvalita](images/oled_kvalita.md)
+![OLED CO2](images/oled_co2.md)
 
 ---
 
@@ -83,7 +83,7 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 6. Plakát projektu
 
-![Plakát projektu](plakat.md)
+![Plakát projektu](images/plakat.md)
 
 ---
 
@@ -202,5 +202,5 @@ Celý systém je navržen jako otevřený, modulární a snadno rozšiřitelný.
 
 ---
 
-Pro celou dokumentaci otevřete ![Dokumentace](dokumentace.md)
-Pro celý návod na spuštění otevřete ![Návod](navod_na_spusteni.md)
+Pro celou dokumentaci otevřete ![Dokumentace](docs/dokumentace.md)
+Pro celý návod na spuštění otevřete ![Návod](docs/navod_na_spusteni.md)
