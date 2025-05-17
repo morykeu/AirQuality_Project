@@ -6,6 +6,11 @@ Jakub Lichnovský, Kryštof Moravec, Tomáš Lazar
 
 ---
 
+Pro celou dokumentaci otevřete ![Dokumentace](docs/dokumentace.md)
+a pro celý návod na spuštění otevřete ![Návod](docs/navod_na_spusteni.md)
+
+---
+
 ## 1. Cíl projektu
 Cílem projektu je navrhnout a realizovat zařízení pro měření kvality ovzduší v nepřístupném prostředí, konkrétně v hlubokých jeskyních, kde se může hromadit oxid uhličitý (CO₂) a jiné plyny. Projekt využívá senzor MQ-135, převodník ADS1115 a mikrokontroler ESP32. Hodnoty se zobrazují lokálně na OLED displeji a zároveň jsou odesílány na server pomocí MQTT protokolu.
 
@@ -203,4 +208,4 @@ Celý systém je navržen jako otevřený, modulární a snadno rozšiřitelný.
 ---
 
 Pro celou dokumentaci otevřete ![Dokumentace](docs/dokumentace.md)
-Pro celý návod na spuštění otevřete ![Návod](docs/navod_na_spusteni.md)
+a pro celý návod na spuštění otevřete ![Návod](docs/navod_na_spusteni.md)
