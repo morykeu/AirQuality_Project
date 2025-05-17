@@ -1,5 +1,7 @@
 Dokumentace k projektu: Měření kvality ovzduší v jeskyních pomocí ESP32 a LoRa/MQTT
 Jakub Lichnovský, Kryštof Moravec, Tomáš Lazar
+![image](https://github.com/user-attachments/assets/0b2118b9-82d4-464c-9df8-3d00669383ce)
+
 
 1. Cíl projektu
 Cílem projektu je navrhnout a realizovat zařízení pro měření kvality ovzduší v nepřístupném prostředí, konkrétně v hlubokých jeskyních, kde se může hromadit oxid uhličitý (CO₂) a jiné plyny. Projekt využívá senzor MQ-135, převodník ADS1115 a mikrokontroler ESP32. Hodnoty se zobrazují lokálně na OLED displeji a zároveň jsou odesílány na server pomocí MQTT protokolu.
