@@ -64,6 +64,7 @@ Grafana
 •	Uživatel může sledovat CO₂ ve formě grafu a ukazatele kvality
  
 5. Schéma zapojení – popis
+Blokové schéma viz. schema.md
  
 I2C sběrnice (ADS1115):
     •    SDA (datová linka) → GPIO21 na ESP32
