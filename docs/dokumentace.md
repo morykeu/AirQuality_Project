@@ -44,7 +44,7 @@ Výsledky se:
 
 ## 3. 💾 Kód pro ESP32
 
-Kód najdete zde: ![Main.ino](/./code/main.ino)
+Kód najdete zde: ![main.ino](/./code/main.ino)
 
 ### Použité knihovny:
 - `<Wire.h>` – I2C komunikace
@@ -92,7 +92,7 @@ Kód najdete zde: ![Main.ino](/./code/main.ino)
 
 ## 5. 📊 Schéma zapojení
 
-Viz obrázek ![Schéma zapojení](/./images/schema.md) nebo níže popis:
+Viz obrázek ![schema_zapojeni](/./images/schema.md) nebo níže popis:
 
 ### I2C sběrnice (ADS1115):
 - SDA → GPIO21
