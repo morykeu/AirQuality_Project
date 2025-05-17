@@ -44,7 +44,7 @@ Výsledky se:
 
 ## 3. 💾 Kód pro ESP32
 
-Kód najdete zde: ![Main.ino](code/main.ino)
+Kód najdete zde: ![Main.ino](main/code/main.ino)
 
 ### Použité knihovny:
 - `<Wire.h>` – I2C komunikace
