@@ -40,7 +40,7 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 3. Schéma zapojení
 
-![Schéma zapojení](images/schema.md)
+![Schéma zapojení](images/schema.png)
 
 ---
 
