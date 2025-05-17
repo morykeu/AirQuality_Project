@@ -199,3 +199,8 @@ Projekt propojuje senzorová data, mikrokontroler a serverovou infrastrukturu v 
 Přidaná hodnota projektu spočívá v tom, že řeší problém v reálném prostředí, kde není k dispozici klasická síťová infrastruktura – a navrhuje využití LoRa technologie jako možného řešení bezdrátového přenosu z podzemí.
 
 Celý systém je navržen jako otevřený, modulární a snadno rozšiřitelný.
+
+---
+
+Pro celou dokumentaci otevřete ![Dokumentace](dokumentace.md)
+Pro celý návod na spuštění otevřete ![Návod](navod_na_spusteni.md)
