@@ -6,8 +6,8 @@ Jakub Lichnovský, Kryštof Moravec, Tomáš Lazar
 
 ---
 
-Pro celou dokumentaci otevřete ![Dokumentace](docs/dokumentace.md)
-a pro celý návod na spuštění otevřete ![Návod](docs/navod_na_spusteni.md)
+Pro celou dokumentaci otevřete ![dokumentace](docs/dokumentace.md)
+a pro celý návod na spuštění otevřete ![navod](docs/navod_na_spusteni.md)
 
 ---
 
@@ -40,14 +40,14 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 3. Schéma zapojení
 
-![Schéma zapojení](images/schema.png)
+![schema_zapojeni](images/schema.png)
 
 ---
 
 ## 4. OLED displej – ukázky výstupu
 
-![OLED kvalita](images/oled_kvalita.png)
-![OLED CO2](images/oled_co2.png)
+![oled_kvalita](images/oled_kvalita.png)
+![oled_CO2](images/oled_co2.png)
 
 ---
 
@@ -88,7 +88,7 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 6. Plakát projektu
 
-![Plakát projektu](images/plakat.png)
+![plakat_projektu](images/plakat.png)
 
 ---
 
@@ -99,7 +99,7 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 - Arduino IDE (verze 1.8+ nebo 2.x)
 - Knihovny: `Wire`, `SPI`, `U8g2lib`, `Adafruit_ADS1X15`, `WiFi`, `PubSubClient`
 - ESP32 balíček: https://github.com/espressif/arduino-esp32
-- Kód: ![Main.ino](code/main.ino)
+- Kód: ![main.ino](code/main.ino)
 
 
 **V kódu upravit:**
@@ -209,5 +209,5 @@ Celý systém je navržen jako otevřený, modulární a snadno rozšiřitelný.
 
 ---
 
-Pro celou dokumentaci otevřete ![Dokumentace](docs/dokumentace.md)
-a pro celý návod na spuštění otevřete ![Návod](docs/navod_na_spusteni.md)
+Pro celou dokumentaci otevřete ![okumentace](docs/dokumentace.md)
+a pro celý návod na spuštění otevřete ![navod](docs/navod_na_spusteni.md)
