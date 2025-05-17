@@ -92,7 +92,7 @@ Kód najdete zde: ![Main.ino](/./code/main.ino)
 
 ## 5. 📊 Schéma zapojení
 
-Viz obrázek ![Schéma zapojení](images/schema.md) nebo níže popis:
+Viz obrázek ![Schéma zapojení](/./images/schema.md) nebo níže popis:
 
 ### I2C sběrnice (ADS1115):
 - SDA → GPIO21
