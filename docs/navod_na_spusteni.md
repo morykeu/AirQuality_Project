@@ -15,7 +15,7 @@
   - `<WiFi.h>`
   - `<PubSubClient.h>` – verze: `2.8`
 - Balíček pro ESP32: [https://github.com/espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
-- Kód: ![Main.ino](code/main.ino)
+- Kód: ![Main.ino](/./code/main.ino)
 
 ### Úprava kódu
 ```cpp
