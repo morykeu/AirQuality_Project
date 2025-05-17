@@ -41,8 +41,8 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 4. OLED displej – ukázky výstupu
 
-![OLED kvalita](images/IMG_6700.jpeg)
-![OLED CO2](images/IMG_6701.jpeg)
+![OLED kvalita](oled_kavlita.md)
+![OLED CO2](oled_co2.md)
 
 ---
 
@@ -83,7 +83,7 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 
 ## 6. Plakát projektu
 
-![Plakát projektu](images/F7DC485F-09BB-440B-AF06-2DACB5608FFC.png)
+![Plakát projektu](plakat.md)
 
 ---
 
