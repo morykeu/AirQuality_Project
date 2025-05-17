@@ -72,6 +72,7 @@ Kód najdete zde: ![main.ino](/./code/main.ino)
   "stav": "Prumerne"
 }
 ```
+![oled_co2](/./images/oled_co2.md)  ![oled_kvalita](/./images/oled_kvalita.md)
 
 ### Mosquitto
 - Naslouchá na tématu `senzory/ovzdusi`
