@@ -99,6 +99,8 @@ Jeskyně jsou specifickým prostředím – nejen kvůli riziku nahromaděných 
 - Arduino IDE (verze 1.8+ nebo 2.x)
 - Knihovny: `Wire`, `SPI`, `U8g2lib`, `Adafruit_ADS1X15`, `WiFi`, `PubSubClient`
 - ESP32 balíček: https://github.com/espressif/arduino-esp32
+- Kód: ![Main.ino](code/main.ino)
+
 
 **V kódu upravit:**
 ```cpp
